@@ -52,7 +52,7 @@ This project documents the assembly and development of an Elegoo Smart Robot Car
 - Debugging steering behavior
 
 ### Next steps
-- Straight-lind driving
+- Straight-line driving
 - Ultrasonic obstacle avoidamce
 - vision system
 
